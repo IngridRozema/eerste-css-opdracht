@@ -1,0 +1,48 @@
+body {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(238, 231, 132);
+}
+
+h1 {
+  color: rgb(5, 70, 10);
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.green-border {
+  border: 4px solid rgb(5, 70, 10);
+}
+
+a {
+  color: red;
+}
+
+* {
+  margin-top: 20;
+  margin-bottom: 20;
+  margin-left: 50;
+  margin-right: 20;
+  padding-top: 50;
+  padding-bottom: 20;
+  padding-left: 20;
+  padding-right: 20;
+  line-height: 25px;
+  width: auto;
+}
+
+h3 em {
+  text-decoration-line: underline;
+}
+
+figcaption {
+  font-size: small;
+  font-family: cursive;
+  text-align: inherit;
+}
+
+img.photo {
+  border: 1px solid #999;
+  background-color: #fcfcfc;
+  padding: 4px;
+}
